@@ -1,0 +1,6 @@
+framework module Pods_BreedApp {
+  umbrella header "Pods-BreedApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
